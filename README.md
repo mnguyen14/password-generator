@@ -26,7 +26,9 @@ If you hit cancel on all the character sets you will be given an error saying, "
 This is an example of a 16 character password hitting OK on lowercase letters, capital letters, and special characters while hitting cancel on numbers.
 
 matthewnguyen0814@gmail.com
+
 https://github.com/mnguyen14 
+
 https://www.linkedin.com/in/matthew-nguyen-92288a211/ 
 
 MIT License
